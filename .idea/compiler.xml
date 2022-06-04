@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com_TestNG_Selenium_Maven-master" />
+        <module name="com_TestNG_Selenium_Maven" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
